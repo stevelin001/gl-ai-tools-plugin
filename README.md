@@ -108,13 +108,3 @@ python3 skills/webpage-to-markdown/scripts/fetch_as_markdown.py \
 ### v0.1.0 (2025-11-06)
 - 🎯 初始占位版本
 - 📋 规划功能列表
-
-## 许可证
-
-MIT License
-
-## 作者
-
-林形省 (stevelin001)
-- Email: xingshenglin@gmail.com
-- GitHub: https://github.com/stevelin001
