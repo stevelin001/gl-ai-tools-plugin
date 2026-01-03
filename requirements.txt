@@ -1,0 +1,4 @@
+# Webpage-to-Markdown Skill Dependencies
+playwright>=1.40.0
+markdownify>=0.11.6
+beautifulsoup4>=4.12.0

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Playwright
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test outputs
+*.md.test
+test_output/
+weixin_article.md
+wikipedia_test.md
+
+# OS
+.DS_Store
+Thumbs.db

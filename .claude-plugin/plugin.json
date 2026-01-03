@@ -1,7 +1,7 @@
 {
   "name": "ai-tools",
-  "version": "0.1.0",
-  "description": "AI 开发工具集：Prompt Engineering、RAG 系统、Agent 开发",
+  "version": "0.2.0",
+  "description": "AI 开发工具集：网页处理、Prompt Engineering、RAG 系统、Agent 开发",
   "author": {
     "name": "林形省",
     "email": "xingshenglin@gmail.com"
@@ -9,5 +9,14 @@
   "homepage": "https://github.com/stevelin001/gl-ai-tools-plugin",
   "repository": "https://github.com/stevelin001/gl-ai-tools-plugin",
   "license": "MIT",
-  "keywords": ["ai", "llm", "rag", "prompt-engineering", "agent"]
+  "keywords": [
+    "ai",
+    "llm",
+    "rag",
+    "prompt-engineering",
+    "agent",
+    "webpage",
+    "markdown",
+    "playwright"
+  ]
 }
